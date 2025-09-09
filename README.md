@@ -65,8 +65,8 @@ The dataset contains customer loan information with the target column:
 5. **Deployment**  
    - Saved best model with `joblib`.  
    - Built **Streamlit App** (`app.py`) for loan default prediction.  
-   - Exposed user inputs (age, income, loan amount, etc.) to return prediction results.  
-
+   - Exposed user inputs (age, income, loan amount, etc.) to return prediction results.
+   - Live link:(https://tolu-defaulters-predictionmodel.streamlit.app/)
 6. **Visualization (Power BI)**  
    - Created a dashboard with KPIs:  
      - % of Defaulters vs Non-Defaulters  
